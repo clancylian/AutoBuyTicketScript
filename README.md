@@ -2,5 +2,5 @@
 
 # 参考
 
-(https://github.com/MakiNaruto/Automatic_ticket_purchase)[https://github.com/MakiNaruto/Automatic_ticket_purchase]
+https://github.com/MakiNaruto/Automatic_ticket_purchase
 
